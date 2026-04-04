@@ -1,4 +1,4 @@
-# 💼 Job Search Workflow
+# Job Search Workflow
 
 > Go from "I need a job" to landing interviews and offers — with an optimized resume, tailored cover letters, and interview prep, step by step.
 
