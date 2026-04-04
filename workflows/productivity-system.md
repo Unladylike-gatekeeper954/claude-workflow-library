@@ -13,7 +13,7 @@
 
 ## What You'll Have at the End
 
-- A complete brain dump of everything on your mind (finally cleared out)
+- A complete brain dump — everything out of your head and onto a page
 - A prioritized task system based on what actually matters
 - A daily planning routine that takes 5 minutes
 - A weekly review habit that keeps you on track
@@ -25,287 +25,249 @@
 
 ### Step 1 — Brain Dump Everything
 
-Your brain is full. Tasks, worries, ideas, things you forgot — it's all floating around causing stress. This step empties it all onto a page.
+Your brain is full. Tasks, worries, ideas, things you forgot — it is all causing stress. This step empties it all.
 
 **Copy this prompt and fill in the `[BRACKETS]`:**
-
 ```
-Role: You are a productivity coach who helps people
-clear mental clutter and get organized.
+Role: You are a productivity coach who specializes in
+helping overwhelmed people clear their mental clutter
+and get organized — you know that most productivity
+problems start with things living in your head instead
+of on a page.
 
-Objective: Help me do a complete brain dump and
-organize everything that's on my mind.
+Objective: Help me do a complete brain dump and organize
+everything that is on my mind.
 
 Context:
 - My life roles: [e.g., student, employee, parent,
-  freelancer, business owner — list all that apply]
-- Areas I'm juggling: [work, school, health, finances,
-  relationships, side projects, household — list yours]
-- How I'm feeling right now: [overwhelmed / scattered /
+  freelancer — list all that apply]
+- Areas I am juggling: [work, school, health, finances,
+  relationships, side projects, household]
+- How I am feeling right now: [overwhelmed / scattered /
   behind / okay but want to improve]
-- Current tools I use: [to-do app name / paper notebook /
-  nothing / calendar app]
+- Tools I currently use: [to-do app / paper / nothing /
+  calendar]
 
-Output: Ask me brain dump questions for each area of my
-life to pull out everything I'm carrying:
-1. Work/School: What tasks, projects, and deadlines am
-   I thinking about?
-2. Personal: What errands, chores, or responsibilities
-   am I behind on?
-3. Health: What health or fitness goals am I neglecting?
-4. Relationships: Who do I need to call, text, or
-   meet with?
-5. Finances: Any bills, budgets, or money tasks?
-6. Goals: What big goals am I working toward (or
-   avoiding)?
-7. Worries: What's nagging at me that I haven't
-   dealt with?
+Please ask me brain dump questions for each area of my
+life to pull out everything I am carrying. Then organize
+everything into a master list grouped by category. Do not
+judge or prioritize yet — just capture everything.
 
-After I answer, organize EVERYTHING into a master list
-grouped by category. Don't judge or prioritize yet —
-just capture everything.
+Rules:
+- Ask questions that surface things I have been avoiding,
+  not just obvious tasks
+- Include a category for worries and unresolved decisions —
+  these take up mental space too
+- Do not skip any life area I mentioned — I need
+  everything out, not just the easy stuff
 ```
-
-**Answer all the questions honestly. Include everything, even the small stuff. The point is to get it OUT of your head.**
 
 ---
 
 ### Step 2 — Prioritize What Matters
 
-Not everything on your list is equally important. This step separates what matters from what's noise.
-
+Not everything on your list is equally important. This separates what matters from what is noise.
 ```
 Role: You are a prioritization expert who helps people
-focus on what moves the needle.
+focus ruthlessly on what actually moves the needle —
+most people are busy doing the wrong things, not the
+right things slowly.
 
-Objective: Help me prioritize my master task list so I
+Objective: Help me prioritize my full task list so I
 know what to do first, what can wait, and what to drop.
 
 Context:
-- My master list: [PASTE YOUR LIST FROM STEP 1 or "use
-  the list from our conversation above"]
-- My top 3 priorities in life right now: [e.g., "pass
-  my exams," "grow my business," "improve my health"]
-- Hours I have available per day: [NUMBER]
-- Biggest deadline coming up: [WHAT and WHEN]
+- My full list: [PASTE YOUR LIST FROM STEP 1 or "use
+  the list from our conversation"]
+- My top 3 priorities right now: [e.g., "pass my exams,"
+  "grow my business," "improve my health"]
+- Hours available per day: [NUMBER]
+- Biggest upcoming deadline: [WHAT and WHEN]
 
-Output: Sort my entire list into 4 categories:
+Output: Sort my list into 4 categories:
+1. Do First — urgent and important, real consequences
+   this week, maximum 5-7 items
+2. Schedule — important but not urgent, assign a
+   suggested day or week for each
+3. Simplify or Delegate — urgent but not important,
+   suggest how to simplify or who could handle it
+4. Drop or Defer — not urgent and not important
 
-1. DO FIRST (urgent + important):
-   - Tasks that have real consequences if I don't do
-     them this week
-   - Limit this to 5-7 items maximum
+For items in Do First and Schedule, estimate time
+needed in minutes.
 
-2. SCHEDULE (important but not urgent):
-   - Tasks that matter for my goals but don't have
-     an immediate deadline
-   - Assign a suggested day/week to do each one
-
-3. DELEGATE OR SIMPLIFY (urgent but not important):
-   - Tasks someone else could do, or that I could
-     do in a much simpler way
-   - For each, suggest how to simplify or who to
-     hand it to
-
-4. DROP OR DEFER (not urgent + not important):
-   - Tasks I can remove from my list without real
-     consequences
-   - Be honest — tell me which items are just
-     cluttering my list
-
-For each task in DO FIRST and SCHEDULE, estimate
-how long it will take in minutes.
+Rules:
+- Be honest about what belongs in Drop or Defer —
+  most lists have more noise than people admit
+- Do not put more than 7 items in Do First
+- If I have tasks conflicting with my top 3 priorities,
+  flag them
 ```
 
 ---
 
 ### Step 3 — Create Your Daily Planning Routine
 
-A 5-minute morning routine that sets up your entire day. No complex app needed — just a simple process.
-
+A 5-minute morning routine that sets up your entire day.
 ```
 Role: You are a daily planning expert who designs
-simple, sustainable morning routines for busy people.
+simple, sustainable routines for busy people — the
+best system is the one people will actually use,
+not the most sophisticated one.
 
 Objective: Create a daily planning template I can use
 every morning in under 5 minutes.
 
 Context:
-- My typical day: [describe your schedule — when you
-  start work, breaks, end time]
-- My energy levels: [when I'm most focused — morning /
-  afternoon / evening]
-- My biggest time wasters: [e.g., "scrolling my phone,"
-  "checking email constantly," "meetings," "not knowing
-  what to do next"]
-- Tools I use: [paper / digital notes / calendar app /
+- My typical day: [when you start, breaks, end time]
+- When I am most focused: [morning / afternoon / evening]
+- My biggest time wasters: [e.g., "checking email
+  constantly," "not knowing what to do next"]
+- Tools I use: [paper / digital notes / calendar /
   to-do app]
 
-Output: Create a daily planning template with:
-
-1. Morning Check-In (2 minutes):
-   - The 3 questions to ask myself every morning
-   - How to pick my "Top 3" tasks for the day
-   - Rule: If I only finish 3 things today, which 3
-     would make today a success?
-
+Output:
+1. Morning Check-In — 2 minutes:
+   - 3 questions to ask myself every morning
+   - How to pick my Top 3 tasks for the day
 2. Time Blocking Template:
-   - A simple schedule structure based on my energy
-     levels
-   - When to do deep work (hardest tasks)
-   - When to do shallow work (emails, admin, quick tasks)
+   - When to do deep work — hardest tasks
+   - When to do shallow work — emails, admin
    - When to take breaks
-
-3. End-of-Day Review (2 minutes):
-   - 3 questions to ask myself every evening
+3. End-of-Day Review — 2 minutes:
+   - 3 questions to ask every evening
    - How to move unfinished tasks to tomorrow
-   - A "small win" log — one thing I accomplished today
+   - One small win to log
+4. Five rules that prevent common productivity traps
 
-4. Rules to Follow:
-   - 5 simple rules that prevent common productivity
-     traps (keep each rule to one sentence)
-
-Format the template so I can copy it and reuse it
-every day.
+Rules:
+- Keep the entire routine under 5 minutes — a planning
+  routine that takes 30 minutes is its own problem
+- Match deep work blocks to my actual peak energy time
+- Every rule must be a specific behavior, not a vague
+  principle like "stay focused"
 ```
 
 ---
 
 ### Step 4 — Build Your Weekly Review Habit
 
-The weekly review is what holds everything together. Without it, you'll slowly slip back into chaos.
-
+The weekly review is what holds everything together.
 ```
-Role: You are a productivity systems expert who
-specializes in the weekly review process.
+Role: You are a productivity systems expert who knows
+the weekly review is the single most important habit
+in any productivity system — and the one most people
+skip.
 
-Objective: Create a simple weekly review I can do
-every Sunday (or Friday) in 20-30 minutes.
+Objective: Create a simple weekly review I can complete
+in 20-30 minutes every week.
 
 Context:
-- My priority areas: [FROM STEP 2]
+- My priorities: [FROM STEP 2]
 - My goals: [FROM STEP 2]
-- My daily planning routine: [FROM STEP 3 or "the one
-  from our conversation"]
-- My biggest challenge with consistency: [WHAT MAKES
-  YOU FALL OFF TRACK]
+- My daily planning routine: [FROM STEP 3]
+- What makes me fall off track: [YOUR SPECIFIC CHALLENGE]
 
-Output: Create a weekly review checklist:
+Output: A weekly review checklist with 4 parts:
 
-1. CLEAR (5 minutes):
-   - Empty my inbox (email, messages, notes) to zero
-     or near-zero
-   - Collect any loose tasks from my week (things I
-     said I'd do but didn't write down)
-   - Clear my desk/workspace
+1. Clear — 5 minutes:
+   - Empty inbox to near-zero
+   - Collect any tasks I said I would do but did
+     not write down
+   - Clear my workspace
 
-2. REVIEW (10 minutes):
-   - Look at last week:
-     * What did I accomplish? (celebrate this)
-     * What didn't get done and why?
-     * What surprised me or went differently than planned?
-   - Look at this week:
-     * What's on my calendar?
-     * What deadlines are coming?
-     * What should I prepare for?
+2. Review — 10 minutes:
+   - What did I accomplish last week?
+   - What did not get done and why?
+   - What is on my calendar this week?
 
-3. PLAN (10 minutes):
-   - Set my Top 3 goals for the coming week
+3. Plan — 10 minutes:
+   - Set Top 3 goals for the coming week
    - Assign major tasks to specific days
-   - Identify potential problems and plan around them
-   - Schedule time for my most important project
+   - Identify potential blockers
 
-4. RESET (5 minutes):
+4. Reset — 5 minutes:
    - Am I still focused on the right priorities?
-   - Is there anything I should stop doing?
-   - One thing to improve about my system this week
+   - One thing to improve about my system
 
-Give me this as a copy-paste checklist I can print or
-keep in my notes.
+Rules:
+- Format as a copy-paste checklist I can reuse weekly
+- Each item must be actionable in under 2 minutes
+- Include a specific day and time recommendation —
+  vague intentions do not become habits
 ```
 
 ---
 
 ### Step 5 — Set Monthly Goals and Track Progress
 
-Daily and weekly systems keep you moving. Monthly goals make sure you're moving in the right direction.
-
+Daily and weekly systems keep you moving. Monthly goals make sure you are moving in the right direction.
 ```
-Role: You are a goal-setting coach who helps people set
-achievable monthly goals connected to their bigger vision.
+Role: You are a goal-setting coach who helps people
+set monthly goals that are ambitious enough to matter
+and realistic enough to achieve — most people either
+set goals too vague or too aggressive, and both
+lead to the same result: nothing.
 
 Objective: Help me set meaningful monthly goals and
 create a simple tracking system.
 
 Context:
-- My big priorities for this year: [LIST 2-3 BIG GOALS
-  — or say "I haven't set yearly goals yet, help me
-  identify them"]
-- What I accomplished last month: [LIST or "this is my
-  first month using this system"]
-- What's coming up this month: [EVENTS, DEADLINES,
-  CHANGES]
-- My biggest area to improve: [WHAT NEEDS THE MOST
-  ATTENTION]
+- My big priorities for this year: [LIST 2-3 or
+  "help me identify them"]
+- What I accomplished last month: [LIST or "first
+  time using this system"]
+- What is coming up this month: [EVENTS, DEADLINES]
+- My biggest area to improve: [WHAT NEEDS MOST ATTENTION]
 
 Output:
-1. Monthly Goals (3-5 goals max):
-   - Each goal is specific and measurable
-   - Each goal connects to a bigger priority
-   - Each goal has a clear "done" definition
-   - For each: Why this matters THIS month
-
-2. Key Milestones:
-   - Break each goal into weekly milestones
-   - Week 1 target, Week 2 target, Week 3 target,
-     Week 4 target
-
-3. Simple Tracking Method:
-   - A table or checklist I can update weekly:
+1. Monthly Goals — 3-5 maximum:
+   - Each specific and measurable
+   - Each connected to a bigger priority
+   - Each with a clear done definition
+2. Weekly Milestones — Week 1, 2, 3, 4 targets for
+   each goal
+3. Tracking Table:
    | Goal | Week 1 | Week 2 | Week 3 | Week 4 | Status |
-
-4. Monthly Review Questions (for end of month):
-   - Did I hit my goals? If not, what happened?
-   - What should I continue, stop, or start?
-   - What are my goals for next month?
-
+4. Monthly Review Questions for end of month
 5. One habit to build this month:
-   - A single daily habit that supports my biggest goal
-   - How to start small (2-minute version)
-   - How to track it (simple streak tracker)
+   - A single daily habit supporting my biggest goal
+   - A 2-minute starting version
+   - A simple streak tracker
+
+Rules:
+- Maximum 5 goals — push back if I suggest more
+- Every goal must have a specific number or observable
+  outcome — "get healthier" is not a goal
+- The one habit must connect directly to one of the
+  monthly goals
 ```
 
 ---
 
 ## Pro Tips
 
-- **Start with just Step 3 (daily planning).** Don't try to implement everything at once. Do the daily routine for a week. Then add the weekly review. Then add monthly goals.
-- **Your "Top 3" is sacred.** Every day, pick 3 tasks. Protect them. Do them before email, before meetings, before anything else. If you finish your Top 3, the day was a success no matter what.
-- **Done is better than perfect.** A messy weekly review is better than no weekly review. A half-completed plan is better than no plan.
-- **Review your system, not just your tasks.** If your system isn't working after 2-3 weeks, don't blame yourself — adjust the system.
-- **Use the simplest tool possible.** A paper notebook or a basic notes app is enough. Fancy productivity apps often become procrastination in disguise.
+- **Start with just Step 3** — use the daily routine for one week before adding anything else.
+- **Your Top 3 is sacred** — do them before email, before meetings, before everything else.
+- **Done is better than perfect** — a messy weekly review beats no weekly review.
+- **Review your system, not just your tasks** — if it is not working after 2 weeks, adjust the system.
+- **Use the simplest tool possible** — paper or a basic app beats any fancy productivity software.
 
 ## Common Mistakes
 
 | Mistake | Why It Hurts You | Do This Instead |
 |---------|-----------------|-----------------|
 | Setting 20 daily tasks | You fail every day and lose motivation | Pick only 3 important tasks per day |
-| Skipping the weekly review | You drift and lose track of priorities | Block 20 minutes every Sunday — make it non-negotiable |
-| Overcomplicating the system | You spend more time managing the system than doing work | Keep it simple — paper, basic app, nothing fancy |
-| Not capturing tasks immediately | They fall through the cracks | Write down every task the moment it comes to mind |
-| Ignoring energy levels | You do hard work when you're tired | Schedule deep work during your peak energy hours |
+| Skipping the weekly review | You drift and lose track | Block 20 minutes every week — non-negotiable |
+| Overcomplicating the system | You manage the system instead of doing work | Keep it simple |
+| Not capturing tasks immediately | They fall through the cracks | Write every task down the moment it appears |
+| Ignoring energy levels | You do hard work when tired | Schedule deep work during your peak hours |
 
 ---
 
 ## Quick Start
 
-Start today with the bare minimum:
-
-1. Do **Step 1** — brain dump everything (15 minutes)
-2. Do **Step 2** — pick your Top 5 priorities (10 minutes)
-3. Do **Step 3** — set up your daily planning routine
-4. Use the daily routine for one week, then come back for Steps 4-5
-
----
-
-*Found this helpful? Give the repo a ⭐ and share it with someone who needs to get organized.*
+1. Do **Step 1** — brain dump everything
+2. Do **Step 2** — pick your top 5 priorities
+3. Do **Step 3** — set up your daily routine
+4. Use it for one week, then add Steps 4 and 5
