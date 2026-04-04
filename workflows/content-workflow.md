@@ -1,6 +1,6 @@
 # Content Workflow
 
-> Go from "I don't know what to post" to a fully written, multi-platform content piece — step by step.
+> Go from "I do not know what to post" to a fully written, multi-platform content piece — step by step.
 
 ---
 
@@ -10,7 +10,7 @@
 - Newsletter writers looking for a repeatable process
 - YouTubers and podcasters planning scripts
 - Marketers managing content for a brand
-- Anyone who wants to create content but doesn't know where to start
+- Anyone who wants to create content but does not know where to start
 
 ## What You'll Have at the End
 
@@ -26,54 +26,62 @@
 
 ### Step 1 — Find a Topic Your Audience Cares About
 
-The #1 content mistake is writing about what *you* find interesting instead of what your *audience* needs. This step fixes that.
+The most common content mistake is writing about what you find interesting instead of what your audience needs.
 
 **Copy this prompt and fill in the `[BRACKETS]`:**
-
 ```
-Role: You are a content strategist who helps creators
-find topics that get attention and engagement.
+Role: You are a content strategist who has helped
+creators in many niches build audiences from scratch —
+you are known for finding topics that get real
+engagement, not just impressions.
 
 Objective: Help me find a specific content topic that
-my audience will care about.
+my audience will genuinely care about.
 
 Context:
-- My niche/industry: [e.g., personal finance, fitness,
-  tech, cooking, career advice]
+- My niche or industry: [e.g., personal finance,
+  fitness, tech, cooking, career advice]
 - My audience: [WHO — e.g., "beginners in investing,"
   "busy parents," "junior developers"]
 - My main platform: [YouTube / blog / Twitter-X /
   LinkedIn / Instagram / TikTok / newsletter]
-- Content I've made before that did well: [DESCRIBE or
-  "I'm just starting out"]
-- Content I've made that flopped: [DESCRIBE or "N/A"]
-- My goal with content: [grow followers / build authority /
+- Content that did well before: [DESCRIBE or "starting out"]
+- Content that flopped: [DESCRIBE or "N/A"]
+- My goal with content: [grow audience / build authority /
   drive sales / educate / entertain]
 
-Output: Give me:
-1. 10 specific content ideas (not vague topics — specific
-   angles with clear titles)
+Output:
+1. 10 specific content ideas — specific angles with
+   clear titles, not vague topics
 2. For each idea:
-   - Why the audience would click on this
-   - Estimated interest level (high / medium / low)
-   - Content format that works best for this topic
-3. Your top 3 recommendations and why
+   - Why the audience would engage with this
+   - Estimated interest level — high, medium, or low
+   - Best format for this topic on my platform
+3. Your top 3 recommendations and reason for each
+
+Rules:
+- Every idea must be specific enough to have a title
+  — "productivity tips" is not acceptable
+- Match ideas to my platform — what works on LinkedIn
+  does not work on TikTok
+- If my niche is too broad, tell me how to narrow it first
 ```
 
-**Pick one topic from the list to use in the rest of this workflow.**
+**Pick one topic to use for the rest of this workflow.**
 
 ---
 
 ### Step 2 — Research and Find Your Angle
 
-The topic isn't enough. You need an angle — the unique perspective that makes your content different from the 100 other posts on the same subject.
-
+The topic is not enough. You need the unique perspective that makes your content different.
 ```
 Role: You are a content researcher who helps creators
-find unique angles that stand out.
+find angles that stand out — you understand that the
+difference between content that spreads and content
+that gets ignored is usually the angle, not the topic.
 
-Objective: Help me find a fresh angle for my content
-topic and gather the information I need.
+Objective: Help me find a fresh angle and gather the
+information I need to create something worth reading.
 
 Context:
 - My topic: [THE TOPIC YOU CHOSE]
@@ -82,146 +90,156 @@ Context:
 - What I personally know about this topic: [YOUR
   EXPERIENCE or "not much yet"]
 - What makes me different from other creators: [YOUR
-  UNIQUE PERSPECTIVE — experience, background, opinion]
+  UNIQUE PERSPECTIVE or "help me figure this out"]
 
-Output: Give me:
-1. 3 different angles I could take on this topic:
-   - The common take (what everyone says)
-   - The contrarian take (what most people get wrong)
-   - The personal take (how my experience adds value)
+Output:
+1. Three angles I could take:
+   - The common take — what everyone already says
+   - The contrarian take — what most people get wrong
+   - The personal take — how my experience adds value
 2. Key facts, data, or statistics I can reference
-3. A common myth or misconception I can bust
+3. A common myth or misconception I can address
 4. A story or example that would hook my audience
 5. What the audience should be able to DO after
-   consuming this content (the takeaway)
+   consuming this content
+
+Rules:
+- Be honest if the contrarian angle is weak or
+  unsupported — do not manufacture controversy
+- Give me specific data points I can verify
+- The personal take must be based on what I have
+  actually told you — do not invent a backstory
 ```
 
 ---
 
 ### Step 3 — Create Your Outline
 
-Don't wing it. Structure is what separates content that holds attention from content people scroll past.
-
+Structure is what separates content that holds attention from content people abandon.
 ```
-Role: You are a content creator who structures pieces
-for maximum engagement and clarity.
+Role: You are a content creator and editor who
+structures pieces for maximum engagement — you know
+exactly where audiences drop off and how to keep
+them hooked.
 
-Objective: Create a detailed outline for my content
-piece that keeps the audience hooked.
+Objective: Create a detailed outline that keeps the
+audience engaged from start to finish.
 
 Context:
-- Topic and angle: [YOUR TOPIC + CHOSEN ANGLE FROM STEP 2]
+- Topic and angle: [YOUR TOPIC AND CHOSEN ANGLE]
 - Platform: [FROM STEP 1]
-- Format: [long-form article / short post / video script /
-  podcast outline / newsletter / thread]
-- Target length: [word count, video length, or number
-  of posts]
+- Format: [long-form article / short post / video
+  script / podcast outline / newsletter / thread]
+- Target length: [word count or video length]
 - Audience: [FROM STEP 1]
 
-Output: Create an outline with:
-1. Hook (the first 1-2 sentences that stop the scroll):
-   - Give me 3 hook options to choose from
-2. Setup (why this matters — 2-3 sentences)
-3. Main Body (3-5 key points):
-   - Each point with a clear heading
-   - What to cover in that point
-   - An example, story, or data to include
-4. Climax (the biggest insight or "aha moment")
-5. Call to Action (what I want the audience to do
-   — follow, share, comment, try something)
+Output:
+1. Hook — 3 different options for the opening
+2. Setup — why this matters in 2-3 sentences
+3. Main Body — 3-5 key points, each with:
+   - A clear heading
+   - What to cover
+   - An example, story, or data point to include
+4. Climax — the biggest insight or takeaway
+5. Call to Action — what I want the audience to do
 
-Make the outline specific to [PLATFORM]. For example,
-if it's YouTube, include where to put pattern interrupts.
-If it's Twitter, structure it as a thread.
+Rules:
+- Structure specifically for [PLATFORM] — include
+  pattern interrupts for YouTube, thread format
+  for Twitter, etc.
+- Hook options must be genuinely different approaches
+- Every main point must earn its place — cut anything
+  that does not serve the audience's need or my goal
 ```
 
 ---
 
 ### Step 4 — Write the Full Draft
 
-Now write the actual content, section by section.
-
+Now write the actual content.
 ```
 Role: You are a top-tier content writer for [PLATFORM]
-who writes in a way that sounds human, not like AI.
+who writes in a way that sounds like a real person —
+you actively avoid the generic, padded style that most
+AI-generated content falls into.
 
 Objective: Write the full draft of my content piece
 based on the outline.
 
 Context:
-- Outline: [PASTE YOUR OUTLINE or "use the outline from
-  our conversation"]
+- Outline: [PASTE YOUR OUTLINE or "use the outline
+  from our conversation"]
 - Platform: [FROM STEP 1]
-- My voice: [casual and funny / professional but friendly /
-  direct and no-nonsense / warm and encouraging / describe
-  your style]
-- Things that matter to me in my content: [e.g., "being
-  honest," "using real examples," "keeping it practical,"
-  "not being preachy"]
-- Personal stories or examples to include: [ANY SPECIFIC
-  ONES or "make suggestions based on common experiences"]
+- My voice: [casual and funny / professional but
+  friendly / direct and no-nonsense / warm and
+  encouraging]
+- Things that matter to me: [e.g., "being honest,"
+  "using real examples," "keeping it practical"]
+- Personal stories or examples to include: [ANY
+  SPECIFIC ONES or "make suggestions"]
 
 Output: Write the full piece with:
-- The best hook from our outline options
-- Short paragraphs (2-4 sentences max for online content)
+- The strongest hook from the outline options
+- Short paragraphs — 2-4 sentences maximum
 - At least one story, analogy, or real example per section
-- Conversational language — write how people talk
-- No cliché openings like "In today's digital age..."
-- A strong closing that matches the call to action
-- Subheadings where appropriate for readability
+- Conversational language — write how people actually talk
+- A strong closing that delivers on the call to action
 
-Format it ready to post on [PLATFORM].
+Rules:
+- No cliché openings like "In today's digital age"
+- Do not pad the piece to hit a word count
+- Format correctly for [PLATFORM]
+- If the outline has a weak section, flag it rather
+  than writing bad content to fill it
 ```
 
 ---
 
 ### Step 5 — Repurpose for Other Platforms
 
-One piece of content should become 3-5. This is how creators stay consistent without burning out.
-
+One piece of content should become three to five.
 ```
 Role: You are a content repurposing expert who adapts
 one piece of content into multiple platform-specific
-formats.
+formats — you understand that each platform has its
+own language, rhythm, and audience expectations.
 
 Objective: Take my main content piece and create
-versions for other platforms.
+ready-to-post versions for other platforms.
 
 Context:
-- My original piece: [PASTE IT or "the piece from our
-  conversation above"]
-- Original platform: [WHERE YOU FIRST POSTED IT]
-- Repurpose for: [PICK 2-3: Twitter/X thread / LinkedIn
-  post / Instagram caption / TikTok script / newsletter
-  intro / blog summary / YouTube shorts script]
+- My original piece: [PASTE IT or "the piece from
+  our conversation above"]
+- Original platform: [WHERE YOU FIRST CREATED IT]
+- Repurpose for: [PICK 2-3: Twitter-X thread /
+  LinkedIn post / Instagram caption / TikTok script /
+  newsletter / blog summary / YouTube shorts script]
 
-Output: For each platform, give me:
-1. The adapted version — fully written, ready to post
-2. Best time to post it
-3. Hashtags or tags to use (if relevant)
-4. One tip specific to that platform
+Output: For each platform:
+1. The adapted version — fully written and ready to post
+2. Best time to post
+3. Relevant hashtags or tags if applicable
+4. One platform-specific tip
 
-Rules for each platform:
-- Twitter/X: Thread format, 5-8 tweets, hook in tweet 1
-- LinkedIn: Professional tone, personal story angle,
-  800-1200 characters
-- Instagram: Shorter, visual-friendly, include emoji
-  naturally, strong first line
-- TikTok/Reels: Script format with timestamps, 30-60
-  seconds, spoken language
-- Newsletter: Personal, conversational, adds extra
-  insight not in the public post
+Rules:
+- Each version must feel native to its platform —
+  do not just shorten the original and call it done
+- Twitter threads must hook in tweet 1
+- LinkedIn posts need a personal angle — pure
+  information without a human perspective performs poorly
+- Never repurpose word-for-word — adapt the angle
+  and voice for each platform's audience
 ```
 
 ---
 
 ## Pro Tips
 
-- **Create in batches.** Sit down once and run this workflow 3-4 times. Now you have content for weeks.
-- **Save your best-performing prompts.** When you find a wording that gets great output, save it and reuse it.
-- **Add your own personality after the AI drafts.** The AI gives you the structure and words — you add the soul, humor, and personal touch.
-- **The hook is 80% of the work.** If nobody clicks, nobody reads. Spend extra time on your hooks.
-- **Repurposing is not optional.** Every piece of content should live on at least 2-3 platforms. Step 5 makes this easy.
+- **Create in batches** — run this workflow 3-4 times in one sitting and have content for weeks.
+- **Add your own personality after the AI drafts** — you add the soul, humor, and personal touch.
+- **The hook is 80% of the work** — spend extra time on your hooks.
+- **Repurpose every single piece** — every piece should live on at least 2-3 platforms.
+- **Save your best-performing prompts** — when a wording gets great output, reuse it.
 
 ## Common Mistakes
 
@@ -230,20 +248,14 @@ Rules for each platform:
 | Writing about what you like, not what the audience needs | Low engagement, no growth | Use Step 1 to find audience-first topics |
 | Same angle as everyone else | You blend in and get ignored | Find your unique angle in Step 2 |
 | Posting on one platform only | You leave growth on the table | Always repurpose in Step 5 |
-| Posting the AI output directly | It sounds generic and flat | Edit, add your voice, add your stories |
+| Posting AI output directly | It sounds generic and flat | Edit it, add your voice and stories |
 | No call to action | People consume and leave | Every piece needs a clear CTA |
 
 ---
 
 ## Quick Start
 
-Need content fast? Minimum path:
-
-1. Do **Step 1** — pick a topic (5 minutes)
-2. Skip to **Step 3** — outline it (5 minutes)
-3. Do **Step 4** — write the draft (10 minutes)
-4. Edit it yourself, add personality, and post
-
----
-
-*Found this helpful? Give the repo a ⭐ and share it with a fellow creator.*
+1. Do **Step 1** — pick a topic
+2. Skip to **Step 3** — outline it
+3. Do **Step 4** — write the draft
+4. Edit it, add your personality, and post
