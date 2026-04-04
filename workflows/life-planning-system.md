@@ -1,4 +1,4 @@
-# 🧭 Life Planning System
+# Life Planning System
 
 > Design a life you actually want — with clear values, meaningful goals, practical habits, and a system to stay on course, step by step.
 
