@@ -10,7 +10,7 @@
 - Professionals writing reports or proposals
 - Content creators building their portfolio
 - Students working on assignments
-- Anyone who stares at a blank page and doesn't know where to start
+- Anyone who stares at a blank page and does not know where to start
 
 ## What You'll Have at the End
 
@@ -25,50 +25,57 @@
 
 ### Step 1 — Define Your Audience and Goal
 
-Every piece of great writing starts with two questions: *Who is this for?* and *What should they think, feel, or do after reading it?*
+Every piece of great writing starts with two questions: who is this for, and what should they think, feel, or do after reading it?
 
 **Copy this prompt and fill in the `[BRACKETS]`:**
-
 ```
-Role: You are a writing strategist who helps writers get
-clear on their audience and purpose before they start.
+Role: You are a writing strategist who helps writers
+get clear on their audience and purpose before they
+write a single word — because the biggest writing
+mistakes happen before the writing starts.
 
-Objective: Help me define exactly who I'm writing for
-and what I want this piece to achieve.
+Objective: Help me define exactly who I am writing
+for and what I want this piece to achieve.
 
 Context:
 - I want to write about: [YOUR TOPIC]
-- Format: [blog post / article / essay / report / email
-  newsletter / LinkedIn post / other]
-- Where it will be published: [my blog / Medium / school
-  assignment / work report / social media / other]
-- My rough audience: [WHO — e.g., "beginners in marketing,"
-  "my professor," "startup founders," "general public"]
+- Format: [blog post / article / essay / report /
+  email newsletter / LinkedIn post / other]
+- Where it will be published: [PLATFORM]
+- My rough audience: [WHO — e.g., "beginners in
+  marketing," "my professor," "startup founders"]
 
-Output: Give me:
-1. A specific audience profile (who they are, what they
-   already know, what they care about)
-2. The #1 goal of this piece (inform / persuade / teach /
-   entertain / inspire)
-3. The key question my reader is asking that this piece
-   should answer
-4. The ideal tone (formal / conversational / professional
-   but friendly / academic)
-5. Suggested word count range for this format
+Output:
+1. A specific audience profile — who they are, what
+   they already know, what they care about
+2. The primary goal of this piece
+3. The key question my reader is asking that this
+   piece should answer
+4. The ideal tone for this audience and format
+5. Suggested word count range
+
+Rules:
+- Be specific about the audience — push me to be
+  more precise than "general public"
+- If my topic and audience do not match well, tell
+  me before I start writing
+- The goal should be singular — trying to inform
+  AND persuade AND entertain equally means doing
+  none of them well
 ```
 
 ---
 
 ### Step 2 — Build Your Outline
 
-An outline is your cheat code. It means you never sit down to write without knowing what comes next.
-
+An outline means you never sit down to write without knowing what comes next.
 ```
 Role: You are an experienced editor who creates clear,
-logical outlines that make writing easy.
+logical outlines that make the actual writing process
+fast and focused.
 
-Objective: Create a detailed outline for my piece so I
-know exactly what to write in each section.
+Objective: Create a detailed outline for my piece so
+I know exactly what to write in each section.
 
 Context:
 - Topic: [YOUR TOPIC]
@@ -77,30 +84,32 @@ Context:
 - Goal: [FROM STEP 1]
 - Tone: [FROM STEP 1]
 - Word count target: [FROM STEP 1]
-- Key points I want to include: [LIST ANY SPECIFIC POINTS
-  YOU ALREADY HAVE IN MIND — or say "none yet, suggest them"]
+- Key points I want to include: [LIST or "none yet,
+  suggest them"]
 
-Output: Create an outline with:
-1. A working title (catchy but clear)
-2. Hook / opening (2-3 sentences that grab attention)
-3. Main sections (3-5 sections, each with):
+Output:
+1. A working title — clear and specific
+2. Hook — 2-3 sentences that grab attention
+3. Main sections — 3-5 sections, each with:
    - Section heading
-   - Key point of that section (one sentence)
-   - 2-3 supporting points or details to include
+   - The key point in one sentence
+   - 2-3 supporting points to include
    - Transition to the next section
-4. Conclusion (what to end with — takeaway, call to
-   action, or closing thought)
+4. Conclusion — what to end with
 
-Make each section specific enough that I could hand
-this outline to someone else and they'd know what
-to write.
+Rules:
+- Make each section specific enough that someone
+  else could write it from this outline alone
+- The outline must follow a logical sequence — each
+  section should build on the previous one
+- If the outline has a weak section or a gap in
+  logic, flag it now before I start writing
 ```
 
-**After you get the outline, ask:**
-
+**After getting the outline, ask:**
 ```
 Look at this outline from my reader's perspective.
-What questions would they still have? What's missing?
+What questions would they still have? What is missing?
 What section feels weakest?
 ```
 
@@ -108,139 +117,133 @@ What section feels weakest?
 
 ### Step 3 — Write the First Draft
 
-Now write — section by section. Don't try to write the whole thing in one prompt. Go section by section for better quality.
-
+Write section by section — not the whole thing in one prompt.
 ```
 Role: You are a skilled writer who matches tone to
-audience and writes with clarity and flow.
+audience precisely and writes with clarity and flow —
+not with the generic, padded style of AI writing.
 
 Objective: Write [SECTION NAME] of my piece based on
 the outline.
 
 Context:
-- Full outline: [PASTE YOUR OUTLINE or say "the outline
+- Full outline: [PASTE YOUR OUTLINE or "the outline
   from our conversation above"]
 - Section to write now: [WHICH SECTION]
 - Tone: [FROM STEP 1]
 - Audience: [FROM STEP 1]
-- Word count for this section: [TARGET — e.g., "200-300
-  words"]
-- Things to include in this section: [ANY SPECIFIC DATA,
-  EXAMPLES, OR POINTS]
+- Word count for this section: [TARGET]
+- Specific details or examples to include: [LIST or
+  "suggest based on the topic"]
 
 Output: Write this section with:
-- A clear opening sentence that connects to the previous
-  section (or hooks the reader if it's the intro)
-- Specific details, examples, or data — not vague claims
-- Short paragraphs (3-4 sentences max per paragraph)
-- A smooth transition at the end to the next section
-- No filler phrases like "In today's world" or "It's
-  important to note that"
+- A clear opening sentence connecting to the previous
+  section or hooking the reader if it is the intro
+- Specific details and examples — not vague claims
+- Short paragraphs — 3-4 sentences maximum
+- A smooth transition at the end
 
-Write it as final copy, not a rough draft. But don't
-over-polish — keep it natural and human.
+Rules:
+- No filler phrases like "In today's world" or
+  "It is important to note that"
+- Do not add information I have not provided
+- Write for my specific audience, not a general reader
+- If my notes for this section are too thin to write
+  well, tell me what I need to add first
 ```
 
-**Repeat this for each section of your outline.**
-
-**For the introduction specifically, add:**
-
-```
-The first sentence must be a hook — a surprising fact,
-a bold statement, a question, or a short story. Do NOT
-start with a generic opening.
-```
+**Repeat for each section of your outline.**
 
 ---
 
 ### Step 4 — Revise and Strengthen
 
-Your first draft is done. Now make it better. This is where good writing becomes great writing.
-
+Your first draft is done. Now make it better.
 ```
-Role: You are a tough but fair editor who makes writing
-sharper, clearer, and more engaging.
+Role: You are a tough but fair editor with high
+standards — you make writing sharper, clearer, and
+more engaging, and you do not soften feedback to
+protect feelings.
 
-Objective: Review my draft and suggest specific
-improvements.
+Objective: Review my draft and give me specific,
+actionable improvements.
 
 Context:
 - My full draft: [PASTE YOUR COMPLETE DRAFT]
 - Audience: [FROM STEP 1]
 - Goal: [FROM STEP 1]
 - Tone: [FROM STEP 1]
-- My concerns: [ANYTHING YOU'RE NOT SURE ABOUT — e.g.,
-  "the intro feels weak," "it might be too long,"
-  "not sure about the ending"]
+- My specific concerns: [ANYTHING YOU ARE UNSURE ABOUT]
 
-Output: Give me:
-1. Overall assessment (2-3 sentences — is it achieving
-   its goal?)
+Output:
+1. Overall assessment — is it achieving its goal?
 2. Specific problems to fix:
-   - Sentences that are confusing or too long
-   - Paragraphs that feel like filler
-   - Spots where I'm telling instead of showing
-   - Any jargon my audience wouldn't understand
-   - Weak transitions between sections
-3. Suggestions for what to add:
-   - Where does it need an example or story?
-   - Where does it need data or evidence?
-   - What would make the reader care more?
-4. Rewrite the 3 weakest sentences to show me
-   what stronger versions look like
+   - Confusing or overly long sentences
+   - Filler paragraphs
+   - Telling instead of showing
+   - Jargon the audience would not understand
+   - Weak transitions
+3. What to add — where does it need examples or data?
+4. Rewrite the 3 weakest sentences to show me stronger versions
+
+Rules:
+- Point to exact sentences, not general areas
+- Do not soften criticism with excessive praise
+- Prioritize the most important issues only
+- Judge against the stated goal, not an abstract standard
 ```
 
 ---
 
 ### Step 5 — Final Polish
 
-Last pass. Fix the small things that separate amateur writing from professional writing.
-
+Last pass before publishing.
 ```
-Role: You are a professional proofreader and copy editor
-with an eye for detail.
+Role: You are a professional proofreader and copy
+editor with a zero-tolerance policy for sloppy writing.
 
-Objective: Do a final polish on my piece — fix errors,
-tighten language, and make it ready to publish.
+Objective: Final polish — fix errors, tighten language,
+and make it ready to publish.
 
 Context:
 - My revised draft: [PASTE YOUR REVISED DRAFT]
 - Format: [blog post / article / essay / report]
 - Published where: [PLATFORM]
-- Anything specific to check: [e.g., "make sure the
-  tone is consistent," "check that it flows well,"
-  "it might still be too long"]
+- Anything specific to check: [YOUR CONCERNS]
 
 Output:
-1. Fix any grammar, spelling, or punctuation errors
-2. Cut unnecessary words (aim to reduce word count by
-   5-10% without losing meaning)
-3. Make sure every paragraph earns its place — cut
-   any that don't add value
-4. Check that the title is strong and click-worthy
+1. Fix grammar, spelling, and punctuation errors
+2. Cut unnecessary words — reduce by 5-10% without
+   losing meaning
+3. Ensure every paragraph earns its place
+4. Check that the title is strong and clear
 5. Suggest 2 alternative titles
-6. Add a one-sentence meta description (for SEO or
-   social sharing)
-7. Give me the final, clean version — ready to publish
+6. Add a one-sentence description for social sharing
+7. Give me the final clean version ready to publish
+
+Rules:
+- Do not change substance or structure at this stage
+- Flag anything still off but unclear how to fix
+- If cutting 10% would damage the piece, say so
 ```
 
 ---
 
 ## Pro Tips
 
-- **Write section by section, not all at once.** You get much better output when the AI focuses on one section at a time.
-- **Don't accept the first draft.** Always do Steps 4 and 5. The difference between a first draft and an edited piece is massive.
-- **Add your own voice.** After the AI writes a draft, read it and change anything that doesn't sound like you. Swap in your own stories, opinions, and style.
-- **Read it out loud.** If a sentence sounds awkward when you say it, it'll feel awkward when someone reads it.
-- **If the writing feels generic**, say: *"This feels like generic AI writing. Make it more specific, more opinionated, and add concrete examples."*
+- **Write section by section, not all at once** — you get much better output with focused prompts.
+- **Do not accept the first draft** — always revise and polish.
+- **Add your own voice** — change anything that does not sound like you.
+- **Read it out loud** — if it sounds awkward spoken, it reads awkward too.
+- **If the writing feels generic**, say: "Make it more specific, more opinionated, add concrete examples."
 
 ## Common Mistakes
 
 | Mistake | Why It Hurts You | Do This Instead |
 |---------|-----------------|-----------------|
 | Skipping the audience step | You write for everyone and connect with no one | Do Step 1 first, always |
-| Writing everything in one prompt | Quality drops with long outputs | Go section by section |
-| Publishing the first draft | First drafts always have problems | Always revise (Step 4) and polish (Step 5) |
+| Writing everything in one prompt | Quality drops significantly | Go section by section |
+| Publishing the first draft | First drafts always have problems | Always revise and polish |
 | Leaving AI writing untouched | It sounds generic and impersonal | Add your own stories, opinions, and style |
 | No clear structure | Readers get lost or bored | Build an outline in Step 2 before writing |
 
@@ -248,14 +251,10 @@ Output:
 
 ## Quick Start
 
-In a rush? Here's the fastest path:
+In a rush? Here is the fastest path:
 
-1. Do **Step 1** — 2 minutes to define audience and goal
+1. Do **Step 1** — define audience and goal
 2. Do **Step 2** — get an outline
 3. Do **Step 3** — write all sections
 4. Do **Step 5** — quick final polish
-5. Read it once yourself and hit publish
-
----
-
-*Found this helpful? Give the repo a ⭐ and share it with a fellow writer.*
+5. Read it once yourself and publish
