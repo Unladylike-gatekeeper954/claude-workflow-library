@@ -1,4 +1,4 @@
-# 🧠 Decision Making Workflow
+# Decision Making Workflow
 
 > Turn any tough decision into a clear, confident choice — using a structured thinking process, step by step.
 
