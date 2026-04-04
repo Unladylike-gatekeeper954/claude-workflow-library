@@ -1,4 +1,4 @@
-# 🎯 Learning Workflow
+# Learning Workflow
 
 > Learn any new skill from zero to capable — with a structured roadmap, practice exercises, and a real project, step by step.
 
