@@ -9,7 +9,7 @@
 - Anyone actively looking for a new job
 - Career changers entering a new field
 - Fresh graduates applying for their first role
-- Professionals who haven't updated their resume in years
+- Professionals who have not updated their resume in years
 - Anyone who applies to jobs but rarely gets interviews
 
 ## What You'll Have at the End
@@ -29,287 +29,247 @@
 Applying to everything is a strategy for getting nothing. This step narrows your focus so every application counts.
 
 **Copy this prompt and fill in the `[BRACKETS]`:**
-
 ```
-Role: You are a career coach who helps people find the
-right job fit based on their skills, experience, and goals.
+Role: You are a career coach who helps people identify
+the right roles to target based on their actual skills,
+experience, and goals — not just what sounds impressive
+or pays the most.
 
 Objective: Help me define exactly what kind of role I
-should target in my job search.
+should be targeting in my job search.
 
 Context:
-- My background: [YOUR FIELD, DEGREE, YEARS OF EXPERIENCE]
-- My skills: [LIST YOUR TOP SKILLS — technical and soft]
-- Jobs I've had: [BRIEF LIST OF PAST ROLES]
-- What I enjoy doing: [WHAT WORK ENERGIZES YOU]
-- What I want to avoid: [DEALBREAKERS — long hours,
-  travel, specific tasks]
-- My salary expectation: [RANGE or "I'm flexible"]
+- My background: [YOUR FIELD, EDUCATION, YEARS OF EXPERIENCE]
+- My skills: [LIST YOUR TOP SKILLS]
+- Jobs I have had: [BRIEF LIST OF PAST ROLES]
+- What I enjoy doing: [WHAT ENERGIZES YOU AT WORK]
+- What I want to avoid: [DEALBREAKERS]
+- My salary expectation: [RANGE or "flexible"]
 - Location preference: [remote / hybrid / in-office /
-  willing to relocate to WHERE]
-- Am I open to career change? [yes — to WHAT FIELD / no]
+  willing to relocate]
+- Open to career change? [yes — to WHAT FIELD / no]
 
-Output: Give me:
+Output:
 1. The 2-3 specific job titles I should search for
 2. Industries where my skills are most valued
-3. Must-have skills I already have
-4. Skills I'm missing that I should highlight learning
-5. My biggest selling point as a candidate (1 sentence)
-6. Job boards and platforms best for these roles
+3. Skills I already have that are strong selling points
+4. Skills I am missing that I should address
+5. My single biggest selling point as a candidate
+6. Best job boards and platforms for these roles
+
+Rules:
+- Be realistic about my competitiveness — if I am
+  applying above my experience level, say so
+- Do not suggest roles that conflict with my stated
+  dealbreakers
+- If my skills are transferable to a better field,
+  point that out even if I did not ask
 ```
 
 ---
 
 ### Step 2 — Optimize Your Resume
 
-Your resume isn't read — it's scanned. By humans for 6 seconds, and by software (ATS) for keywords. This step makes sure yours passes both.
-
+Your resume is scanned by software before a human sees it. This step makes sure yours passes both tests.
 ```
 Role: You are a professional resume writer who
 specializes in getting resumes past ATS software and
-into the hands of hiring managers.
+into the hands of hiring managers — you know exactly
+what gets interviews and what gets rejected.
 
-Objective: Help me rewrite my resume so it's clear,
+Objective: Help me rewrite my resume so it is clear,
 impactful, and optimized for my target role.
 
 Context:
 - Target role: [FROM STEP 1]
-- My current resume content:
+- My current resume:
+  [PASTE YOUR RESUME TEXT HERE]
+- A job description I am targeting:
+  [PASTE A REAL JOB LISTING]
 
-  [PASTE YOUR CURRENT RESUME TEXT HERE — don't worry
-  about formatting, just paste the words]
-
-- A job description I'm targeting:
-
-  [PASTE A REAL JOB LISTING YOU WANT TO APPLY FOR]
-
-Output: Give me:
-1. A rewritten Professional Summary (3-4 lines that
-   match the job description's priorities)
-
+Output:
+1. Rewritten Professional Summary — 3-4 lines matching
+   the job description's priorities
 2. Rewritten Experience section:
-   - Each bullet point starts with a strong action verb
-   - Each bullet follows this format: [Action] + [What
-     you did] + [Result/Impact with numbers if possible]
-   - Prioritize bullets that match the job description
-   - Remove or shorten irrelevant experience
+   - Each bullet starts with a strong action verb
+   - Format: [Action] + [What you did] + [Result with
+     numbers where possible]
+   - Bullets prioritized to match the job description
+3. Optimized Skills section with keywords from the listing
+4. ATS check — keywords I must include and formatting
+   issues that get resumes rejected
+5. Overall feedback — what is strong, what is weak,
+   what to cut
 
-3. Optimized Skills section:
-   - Keywords from the job description I should include
-   - Skills to add, reorder, or remove
-
-4. ATS check:
-   - Keywords from the job listing that should appear
-     in my resume
-   - Any formatting red flags that ATS might reject
-
-5. Overall resume feedback:
-   - What's strong
-   - What's weak
-   - What to cut to keep it to 1-2 pages
+Rules:
+- Do not invent accomplishments I have not told you about
+- If my experience genuinely does not match the role,
+  tell me rather than creating a misleading resume
+- Flag resume clichés that should be removed — phrases
+  that add no real information
 ```
-
-**Repeat the resume optimization for different job listings — your resume should be slightly different for each application.**
 
 ---
 
 ### Step 3 — Write a Cover Letter Template
 
-One template, customized for each application. This step gives you the structure so each cover letter takes 10 minutes instead of an hour.
-
+One strong template, customized for each application.
 ```
 Role: You are a cover letter expert who writes letters
-that sound human, specific, and compelling — not generic
-or robotic.
+that sound like real people wrote them — compelling,
+specific, and free of the generic phrases hiring
+managers have read a thousand times.
 
-Objective: Create a flexible cover letter template I
-can quickly customize for each job application.
+Objective: Create a cover letter template I can quickly
+customize for each application.
 
 Context:
 - My target role: [FROM STEP 1]
 - My biggest selling point: [FROM STEP 1]
-- My personality/tone: [professional but warm /
-  confident and direct / enthusiastic / formal]
-- A specific job I'm applying to:
-
+- My tone: [professional but warm / confident and direct /
+  enthusiastic / formal]
+- A specific job I am applying to:
   [PASTE THE JOB LISTING]
 
-Output: Write a cover letter with these sections:
-
-1. Opening (2-3 sentences):
-   - Why I'm excited about THIS specific company
-   - [PLACEHOLDER: Company-specific detail I'll swap
-     for each application]
-
-2. Body Paragraph 1 — My Best Fit (3-4 sentences):
-   - The #1 thing from my experience that matches what
-     they need
-   - A specific accomplishment with results
-
-3. Body Paragraph 2 — Why Me (3-4 sentences):
-   - A skill or trait that sets me apart
-   - How it directly helps them
-
-4. Closing (2-3 sentences):
-   - Confident but not arrogant
-   - Clear call to action
+Output: A cover letter with:
+1. Opening — 2-3 sentences with a [PLACEHOLDER] for
+   company-specific detail I will add each time
+2. Body Paragraph 1 — my strongest fit with a specific
+   accomplishment and result
+3. Body Paragraph 2 — what sets me apart and how it
+   directly helps them
+4. Closing — confident, clear call to action
 
 Also give me:
-5. A list of [PLACEHOLDERS] I need to customize for
-   each application
-6. Tips for researching each company quickly (where
-   to look, what to mention)
+5. A list of [PLACEHOLDERS] to customize per application
+6. Tips for researching each company in under 10 minutes
 
-Total length: Under 300 words. No filler. Every
-sentence should earn its place.
+Rules:
+- Total length under 300 words — every sentence must
+  earn its place
+- No filler openers like "I am writing to express my
+  interest in..."
+- The accomplishment must include a specific result —
+  not just what I did but what happened because of it
+- If my experience does not genuinely match the role,
+  tell me rather than writing a misleading letter
 ```
 
 ---
 
 ### Step 4 — Prepare for Interviews
 
-Most people walk into interviews hoping for the best. This step makes sure you're actually ready.
-
+Most people walk into interviews hoping for the best. This step makes sure you are actually ready.
 ```
 Role: You are an interview coach who has prepared
-hundreds of candidates for interviews at top companies.
+candidates for roles at every level — you know the
+difference between answers that sound good and answers
+that actually get offers.
 
 Objective: Prepare me thoroughly for interviews for
 [TARGET ROLE].
 
 Context:
-- Role I'm interviewing for: [JOB TITLE]
+- Role I am interviewing for: [JOB TITLE]
 - Company: [COMPANY NAME or "general preparation"]
 - Industry: [INDUSTRY]
 - My experience: [BRIEF SUMMARY]
 - My biggest strength: [FROM STEP 1]
-- My biggest weakness/gap: [BE HONEST]
-- Interview format: [phone screen / video call / in-person /
-  panel / I don't know yet]
+- My biggest gap or weakness: [BE HONEST]
+- Interview format: [phone / video / in-person / panel /
+  unknown]
 
-Output: Give me:
-
-1. The 10 most likely interview questions for this role:
-   - For each question, explain WHY they ask it (what
-     they're really looking for)
-   - Give me a strong sample answer using the STAR
-     method (Situation, Task, Action, Result)
-   - Tell me what NOT to say
-
-2. Behavioral questions (5 questions):
-   - Formatted as "Tell me about a time when..."
-   - Sample answers using my background
-
-3. Questions I should ask THEM (5 questions):
-   - Smart questions that show I've done my research
-   - Questions that help ME evaluate if this is a
-     good fit
-
-4. How to handle tricky situations:
-   - "What's your salary expectation?"
+Output:
+1. The 10 most likely questions for this role:
+   - Why they ask each question
+   - A strong sample answer using STAR method
+   - What not to say
+2. Five behavioral questions with sample answers
+3. Five smart questions I should ask them
+4. Scripts for tricky situations:
+   - "What is your salary expectation?"
    - "Why are you leaving your current job?"
-   - "What's your biggest weakness?"
-   - Give me specific scripts for each
+   - "What is your biggest weakness?"
+5. Night-before checklist
 
-5. The night-before checklist:
-   - What to prepare, review, and have ready
-```
-
-**Before a specific interview, ask:**
-
-```
-I have an interview with [COMPANY] for [ROLE] tomorrow.
-Here's what I know about the company: [WHAT YOU KNOW].
-Give me 5 company-specific things to mention that show
-I've done my research, and predict 3 questions specific
-to this company.
+Rules:
+- Base sample answers on my actual experience —
+  do not invent impressive stories I have not told you
+- For the salary question, give me a specific strategy
+- Scripts must sound natural — not like rehearsed deflections
 ```
 
 ---
 
 ### Step 5 — Build Your Application Tracker and Follow-Up System
 
-Disorganized job searches lead to missed opportunities. This step keeps you on track.
-
+A disorganized job search leads to missed opportunities.
 ```
 Role: You are a job search strategist who helps
-candidates stay organized and persistent.
+candidates stay organized, persistent, and mentally
+resilient through what can be a long and discouraging
+process.
 
-Objective: Help me create a system to track my
-applications and follow up at the right times.
+Objective: Create a system to track applications and
+follow up at the right times.
 
 Context:
-- Number of jobs I'm applying to per week: [NUMBER
-  or "suggest a realistic target"]
-- How I'm currently tracking: [spreadsheet / nothing /
-  notes on my phone]
-- My biggest struggle with the job search process:
-  [WHAT'S HARDEST — e.g., "staying motivated,"
-  "remembering to follow up," "not hearing back"]
+- Applications I plan to send per week: [NUMBER or
+  "suggest a realistic target"]
+- How I am currently tracking: [spreadsheet / nothing /
+  phone notes]
+- My biggest challenge: [staying motivated / following
+  up / hearing nothing back]
 
 Output:
 1. Application Tracker Template:
-   Create a simple table with these columns:
-   | Company | Role | Date Applied | Status | Contact
-   Person | Follow-Up Date | Notes |
-
+   | Company | Role | Date Applied | Status | Contact |
+   Follow-Up Date | Notes |
 2. Follow-Up Schedule:
-   - When to follow up after applying (with email
-     template)
-   - When to follow up after an interview (with email
-     template)
+   - When to follow up after applying — with email template
+   - When to follow up after an interview — with email template
    - When to stop following up
-
 3. Weekly Job Search Routine:
-   - How many hours per day to dedicate
-   - Best days/times to apply
-   - When to do research vs. when to apply
-   - When to practice interview questions
-
-4. Motivation System:
-   - How to handle rejections without getting
-     discouraged
-   - Milestones to celebrate along the way
-   - Signs that you need to adjust your strategy
-
+   - Hours to dedicate and when
+   - When to apply versus research versus practice
+4. Staying Motivated:
+   - How to handle rejection without losing momentum
 5. Red Flags to Watch For:
-   - In job listings (signs of a bad employer)
-   - In interviews (warning signals)
-   - In offers (what to check before accepting)
+   - In job listings, in interviews, in offers
+
+Rules:
+- Follow-up templates must be short and specific
+- Red flags must be concrete examples, not vague warnings
+- The weekly routine must work for someone job searching
+  alongside full-time work
 ```
 
 ---
 
 ## Pro Tips
 
-- **Customize your resume for every single application.** It takes 15 extra minutes and doubles your callback rate. Use Step 2 for each job.
-- **Apply to fewer jobs, but better.** 10 tailored applications beat 100 generic ones every time.
-- **Follow up. Always.** Most candidates never follow up. A polite follow-up email 5-7 days after applying puts you ahead of 90% of applicants.
-- **Practice your answers out loud.** Reading answers silently feels productive but doesn't prepare you for speaking. Say them out loud, alone or with a friend.
-- **Research the company before every interview.** Check their website, recent news, LinkedIn, and Glassdoor. Mention something specific in the interview.
+- **Customize your resume for every application** — 15 extra minutes significantly improves your callback rate.
+- **Apply to fewer jobs but better ones** — ten tailored applications beat 100 generic ones.
+- **Follow up — always** — a polite email 5-7 days after applying puts you ahead of most applicants.
+- **Practice your answers out loud** — reading silently does not prepare you for speaking.
+- **Research every company before every interview** — mention something specific.
 
 ## Common Mistakes
 
 | Mistake | Why It Hurts You | Do This Instead |
 |---------|-----------------|-----------------|
-| Using one resume for everything | ATS rejects non-matching resumes | Tailor your resume per application (Step 2) |
-| Generic cover letters | Hiring managers can tell instantly | Customize the template for each company (Step 3) |
-| Not preparing for interviews | You stumble on basic questions | Practice with Step 4, out loud, multiple times |
-| Not following up | You're forgotten in a pile of applicants | Follow up on every application and interview |
-| Applying everywhere randomly | You waste time and get discouraged | Focus on your target roles from Step 1 |
+| One resume for all applications | ATS rejects non-matching resumes | Tailor your resume per application |
+| Generic cover letters | Hiring managers spot them instantly | Customize the template for each company |
+| Not preparing for interviews | You stumble on basic questions | Practice with Step 4, out loud |
+| Not following up | You are forgotten | Follow up on every application and interview |
+| Applying everywhere randomly | You waste time and get discouraged | Focus on target roles from Step 1 |
 
 ---
 
 ## Quick Start
 
-Ready to start right now?
-
-1. Do **Step 1** — define your target (10 minutes)
-2. Do **Step 2** — optimize your resume for one specific job listing (20 minutes)
-3. Do **Step 3** — create your cover letter template (10 minutes)
+1. Do **Step 1** — define your target
+2. Do **Step 2** — optimize your resume for one specific listing
+3. Do **Step 3** — create your cover letter template
 4. Apply to that job today
 5. Do **Step 4** when you get an interview
-
----
-
-*Found this helpful? Give the repo a ⭐ and share it with someone who's job hunting.*
