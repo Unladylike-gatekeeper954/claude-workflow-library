@@ -1,4 +1,4 @@
-# 🎬 Content Workflow
+# Content Workflow
 
 > Go from "I don't know what to post" to a fully written, multi-platform content piece — step by step.
 
