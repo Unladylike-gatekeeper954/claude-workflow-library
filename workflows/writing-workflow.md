@@ -1,4 +1,4 @@
-# ✍️ Writing Workflow
+# Writing Workflow
 
 > Go from a blank page to a polished, publish-ready piece of writing — step by step.
 
