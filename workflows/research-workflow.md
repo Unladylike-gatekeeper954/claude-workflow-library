@@ -1,4 +1,4 @@
-# 🔍 Research Workflow
+# Research Workflow
 
 > Go from a vague question to a well-organized, source-backed research document — step by step.
 
