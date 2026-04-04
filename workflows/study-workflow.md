@@ -1,4 +1,4 @@
-# 📚 Study Workflow
+# Study Workflow
 
 > Turn any subject into organized notes, flashcards, and practice tests — step by step.
 
