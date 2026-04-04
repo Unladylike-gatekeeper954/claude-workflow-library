@@ -1,4 +1,4 @@
-# ⚡ Productivity System
+# Productivity System
 
 > Build a personal productivity system that actually sticks — with daily planning, weekly reviews, and goal tracking, step by step.
 
