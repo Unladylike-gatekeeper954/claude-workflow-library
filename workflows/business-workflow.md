@@ -1,4 +1,4 @@
-# 💼 Business Workflow
+# Business Workflow
 
 > Go from a rough business idea to a clear plan with market research, a business model, and actionable next steps — step by step.
 
